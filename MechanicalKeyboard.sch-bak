@@ -629,4 +629,10 @@ Wire Wire Line
 Connection ~ 7600 2250
 Wire Wire Line
 	7600 2250 7750 2250
+Text Notes 7350 7500 0    50   ~ 0
+Modular Mechanical Keyboard
+Text Notes 10650 7650 0    50   ~ 0
+v1.0
+Text Notes 8500 7750 0    50   ~ 0
+Designed By: Anmol Chhatwal
 $EndSCHEMATC
